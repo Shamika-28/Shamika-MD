@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines= ＳＨＡＭＩＫＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ+Ｖ２.０)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＳＨＡＭＩＫＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ+Ｖ２.０)](https://git.io/typing-svg)
  
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
