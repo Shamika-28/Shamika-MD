@@ -1,8 +1,9 @@
 <div align="center">
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＳＨＡＭＩＫＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
-</div>
- </p
+ 
+ </div>
+ 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
    <img alt="botgsswa" height="300" src="https://i.imgur.com/JZWZ03W.jpg">
